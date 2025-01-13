@@ -37,6 +37,6 @@ Feel free to ⭐ this repository if you find it useful!
 Thank You!!
 
 # Contributors
--[RishabhSharma](https://github.com/the-rishabh-sharma)
+-[Yashaswi jaiswal](https://github.com/yashijais5)
 -[Jyoti Yadav](https://github.com/jyotiyadv23)
 -[Prachi Pandey](https://github.com/prachiipandey)
